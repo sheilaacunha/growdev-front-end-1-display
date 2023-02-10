@@ -39,7 +39,8 @@ main {
   text-align: center;
   list-style-type: none;
 }
-.barra-lateral-info-menu ul > li > a {
+.barra-lateral-info-menu
+ ul > li > a {
   color: white;
   opacity: 0.4;
   font-size: 26px;
@@ -105,7 +106,7 @@ main {
   line-height: 50px;
 }
 .rede-social img:hover {
-  background-color: #36363644;
+    filter: drop-shadow(2px 2px 4px #363636);
 }
 
 /* conhecimentos */
